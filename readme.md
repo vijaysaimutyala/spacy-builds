@@ -7,5 +7,5 @@ The wheel files were generated to be used on Azure App Service where the usual p
 
 ### pip wheel --wheel-dir=/tmp/wheelhouse spacy==2.0.11
 
-with the above command on Windows 10 64 bit system.
+with the above command on Windows 10 64 bit system. I've deployed these wheels on Azure app service and these are running fine without any issues. 
 
